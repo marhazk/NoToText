@@ -1,0 +1,9 @@
+D:\PW\NoToText\NoToText\bin\Debug\NoToText.exe
+D:\PW\NoToText\NoToText\bin\Debug\NoToText.pdb
+D:\PW\NoToText\NoToText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PW\NoToText\NoToText\obj\x86\Debug\NoToText.Form1.resources
+D:\PW\NoToText\NoToText\obj\x86\Debug\NoToText.Properties.Resources.resources
+D:\PW\NoToText\NoToText\obj\x86\Debug\ResGen.read.1.tlog
+D:\PW\NoToText\NoToText\obj\x86\Debug\ResGen.write.1.tlog
+D:\PW\NoToText\NoToText\obj\x86\Debug\NoToText.exe
+D:\PW\NoToText\NoToText\obj\x86\Debug\NoToText.pdb
